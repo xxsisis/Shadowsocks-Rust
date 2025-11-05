@@ -5,6 +5,3 @@ wget -O ss-go.sh --no-check-certificate https://raw.githubusercontent.com/xxsisi
 ```
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xxsisis/Shadowsocks-Rust&type=date&legend=top-left)](https://www.star-history.com/#xxsisis/Shadowsocks-Rust&type=date&legend=top-left)
