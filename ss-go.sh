@@ -5,8 +5,8 @@ export PATH
 #=================================================
 #	System Required: CentOS/Debian/Ubuntu
 #	Description: Shadowsocks Rust 管理脚本
-#	Author: xxsisis
-#	WebSite:
+#	Author: AICM
+#	WebSite: https://110.al/
 #=================================================
 
 # 当前脚本版本号
